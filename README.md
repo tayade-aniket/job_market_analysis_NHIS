@@ -58,10 +58,11 @@ A comprehensive data analytics platform that analyzes job market trends and prov
 ```
 
 2.	Install dependencies
-bash
+```bash
 pip install -r requirements.txt
+```
 
-
-2.	Run the Streamlit app
-bash
+3.	Run the Streamlit app
+```bash
 streamlit run streamlit_app.py
+```
