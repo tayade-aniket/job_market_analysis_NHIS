@@ -52,14 +52,14 @@ A comprehensive data analytics platform that analyzes job market trends and prov
 ### Local Development
 
 1. **Clone the repository**
-   ```bash
+```bash
    git clone https://github.com/tayade-aniket/job_market_analysis_NHIS
    cd job-market-analysis_NHIS
 ```
 
 2.	Install dependencies
 ```bash
-pip install -r requirements.txt
+   pip install -r requirements.txt
 ```
 
 3.	Run the Streamlit app
