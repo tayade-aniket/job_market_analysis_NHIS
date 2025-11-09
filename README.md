@@ -55,7 +55,7 @@ A comprehensive data analytics platform that analyzes job market trends and prov
    ```bash
    git clone https://github.com/tayade-aniket/job_market_analysis_NHIS
    cd job-market-analysis_NHIS
-
+```
 
 2.	Install dependencies
 bash
